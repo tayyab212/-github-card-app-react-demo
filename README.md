@@ -16,10 +16,9 @@ Please feel free to fork this package and contribute by submitting a pull reques
 
 Why not star the github repo? I'd love the attention! Why not share the link for this repository with friends that you think would need this? Spread the word!
 
-Don't forget to [follow me on twitter](https://twitter.com/kamparia)!
+Don't forget to [follow me on twitter](https://twitter.com/tayyab212)!
 
-Thanks!
-[Olaoye Somide.](http://somideolaoye.com)
+Thanks
 
 ## License
 
